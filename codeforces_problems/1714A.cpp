@@ -1,5 +1,4 @@
 /**
- * Enunciado
  * https://codeforces.com/contest/1714/problem/A
 */
 

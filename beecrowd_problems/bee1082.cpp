@@ -1,5 +1,4 @@
 /**
- * Enunciado
  * https://www.beecrowd.com.br/judge/pt/problems/view/1082
 */
 #include <bits/stdc++.h>
@@ -34,7 +33,7 @@ void solve(int n) {
             }
             cout << '\n';
         }
-    } 
+    }
     cout << comps << ' ' << "connected components\n" << '\n';
 }
 
