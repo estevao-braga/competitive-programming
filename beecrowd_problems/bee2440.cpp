@@ -10,7 +10,7 @@ vector<int> relatives[N];
 int visiteds[N];
 int n;
 
-int dfs(int d){
+void dfs(int d){
     visiteds[d] = 1;
     for(int i = 0; i < relatives[d].size(); i++){
         if(visiteds[relatives[d][i]] == 0){
